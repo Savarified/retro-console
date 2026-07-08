@@ -1,0 +1,2 @@
+Final versions:
+basev2.stl, topv4.stl, consoleV2_PLA_1h55m.gcode, topv4_PLA_30m28s.gcode
